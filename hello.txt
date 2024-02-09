@@ -1,4 +1,8 @@
 hello
 Bye
 back again
+<<<<<<< HEAD
 git hub check
+=======
+new line
+>>>>>>> e785756f11d8c9fc6f7f74cce1f06414c91467ad
